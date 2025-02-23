@@ -1,5 +1,5 @@
 # bernoulli_gaussian_vae
-# VAE Comparison Project: Bernoulli vs Gaussian
+# VAE Comparison: Bernoulli vs Gaussian
 
 This project implements and compares two types of Variational Autoencoders (VAEs) on the MNIST dataset: Bernoulli VAE and Gaussian VAE. It explores their different behaviors, loss functions, and generation capabilities.
 
